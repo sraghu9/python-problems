@@ -1,3 +1,3 @@
 # TODO
 - [x] Hello world
-- [] Do string operations
+- [x] Do string operations
