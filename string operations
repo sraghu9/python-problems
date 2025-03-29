@@ -1,0 +1,5 @@
+text = "hello,github!"
+print(text.upper())
+print(text.replce("github","world"))
+print(text.split(""))
+print("github" in text)
